@@ -1,0 +1,74 @@
+﻿
+@model FormSubmissionUsingHtmlHelpers.Models.Home
+
+
+
+@{
+    ViewBag.Title = "FormSubmissionUsingHtmlHelpers";
+}
+
+
+
+<h3>This is First Page </h3>
+<br>
+
+@Html.ActionLink("GO TO Second Page", "SecondPage", new { name = "Tawsif" })
+<br>
+<br>
+<br>
+@Html.Label("Name : ")
+@Html.TextBox("txtbx1", "Tawsif Aziz Ahmed")
+<br>
+
+@Html.Label("Address : ")
+@Html.TextBox("txtbx2", "Khilgaon")
+
+<br>
+@Html.Label("Password : ")
+@Html.Password("pass")
+
+<br>
+
+@Html.Label("Fav Game : ")
+@Html.CheckBox("check1")
+@Html.Label("Call Of Duty ")
+@Html.CheckBox("check2")
+@Html.Label("Six Seige ")
+
+@Html.RadioButton("radio", 3)
+
+<br>
+<br>
+<br>
+<br>
+
+<h3>Strongly Typed</h3>
+
+@using (Html.BeginForm("My Form"))
+{
+
+    @Html.LabelFor(x => x.name)
+    @Html.TextBoxFor(x => x.name)
+
+    <br>
+
+    @Html.LabelFor(x => x.id)
+    @Html.TextBoxFor(x => x.id)
+
+    <br>
+
+    @Html.LabelFor(x => x.cgpa)
+    @Html.TextBoxFor(x => x.cgpa)
+
+    <br>
+
+    @Html.LabelFor(x => x.Address)
+    @Html.TextBoxFor(x => x.Address)
+
+
+    <input type="submit" value="Submit Form">
+
+
+
+}
+
