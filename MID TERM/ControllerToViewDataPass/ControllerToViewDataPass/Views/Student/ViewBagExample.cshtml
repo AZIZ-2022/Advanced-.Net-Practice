@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "ViewBagExample";
+}
+
+<h2>ViewBagExample</h2>
+
+<h2>@ViewBag.Team</h2>
+
+@{
+    <h3>Fruits By Array</h3>
+    foreach (string i in ViewBag.Tasty)
+    {
+        <li>@i</li>
+    }
+
+
+
+    <h3>Teams By List</h3>
+    foreach (string i in ViewBag.TeamsList)
+    {
+        <li>@i</li>
+    }
+
+
+}
+
+@{ 
+    var a = @ViewBag.Student;
+}
+<h2>Object Access By ViewBag </h2>
+<h3>@a.id</h3>
+<h3>@a.name</h3>
+<h3>@a.cgpa</h3>
+
+
+
+
+
+
+
+

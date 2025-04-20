@@ -1,0 +1,41 @@
+﻿@model ControllerToViewDataPass.Models.Student
+@{
+    ViewBag.Title = "ShowData";
+}
+
+
+<h2>ShowData</h2>
+
+<div>
+    <h3>Printing Data From Controller<h3>
+    <h3>@Model.id</h3>
+    <h3>@Model.name</h3>
+    <h3>@Model.cgpa</h3>
+
+</div>
+
+
+<div>
+
+    @{ 
+        var a = 5;
+        var b = 6;
+
+        <h3> printing an array using razor</h3>
+
+        for(int i=0; i<5; i++)
+        {
+            <h3>@i </h3>
+        }
+    }
+
+
+
+ </div>
+
+
+<div>
+    <h3> printing Date Time using razor</h3>
+    <h3> @DateTime.Now</h3>
+</div>
+

@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "ViewDataExample";
+}
+
+<h2>ViewDataExample</h2>
+
+<h3>@ViewData["Data"]</h3>
+
+@{ 
+
+    foreach(string i in (string[])ViewData["tasty"])
+    
+    {      
+        <li>@i</li>
+            
+    }
+
+
+}
