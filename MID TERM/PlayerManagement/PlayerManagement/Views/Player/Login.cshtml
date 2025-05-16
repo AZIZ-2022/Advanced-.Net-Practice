@@ -1,0 +1,31 @@
+﻿@model PlayerManagement.Context.table_Registration
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2 style="text-align:center; margin-bottom:20px;">Login</h2>
+
+@using (Html.BeginForm("Login", "Player", FormMethod.Post))
+{
+
+    <label>Email: </label>
+    @Html.TextBoxFor(x => x.email)
+    <br>
+
+    <label>Password: </label>
+    @Html.TextBoxFor(x => x.password)
+    <br>
+
+    <input type="submit" value="Login" />
+    <input type="reset" value="Clear" />
+
+    <br>
+
+
+    if(ViewBag.Message != null)
+    {  
+          @ViewBag.Message
+
+    }
+
+}

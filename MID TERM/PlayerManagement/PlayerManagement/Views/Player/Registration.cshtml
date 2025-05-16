@@ -1,0 +1,48 @@
+﻿@model PlayerManagement.Context.table_Registration
+@{
+    ViewBag.Title = "Registration";
+}
+
+<h2 style="text-align:center; margin-bottom:20px;">Registration</h2>
+
+@using (Html.BeginForm("Registration", "Player", FormMethod.Post))
+{
+
+    <label>Name: </label>
+    @Html.TextBoxFor(x => x.name, new { style = "width: 100%; margin-bottom: 10px;" })
+    @Html.ValidationMessageFor(x => x.name)
+    <br>
+
+
+    <label>Password: </label>
+    @Html.TextBoxFor(x => x.password, new { style = "width: 100%; margin-bottom: 10px;" })
+    @Html.ValidationMessageFor(x => x.password)
+    <br>
+
+
+    <label>Email: </label>
+    @Html.TextBoxFor(x => x.email, new { style = "width: 100%; margin-bottom: 10px;" })
+    @Html.ValidationMessageFor(x => x.email)
+    <br>
+
+
+    <label>Address: </label>
+    @Html.TextBoxFor(x => x.address, new { style = "width: 100%; margin-bottom: 10px;" } )
+    @Html.ValidationMessageFor(x => x.address)
+    <br>
+
+
+    <input type="submit" value="Register" />
+    <input type="reset" value="Clear" />
+
+
+
+
+    @Html.ActionLink("Alredy Have an account??", "Login", "Player")
+
+
+
+}
+
+
+

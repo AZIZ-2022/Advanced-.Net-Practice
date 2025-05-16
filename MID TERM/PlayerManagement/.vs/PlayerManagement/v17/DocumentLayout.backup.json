@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\user\\desktop\\10th semester\\adv . net\\playermanagement\\playermanagement\\views\\player\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\views\\player\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\user\\desktop\\10th semester\\adv . net\\playermanagement\\playermanagement\\views\\player\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\views\\player\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\user\\desktop\\10th semester\\adv . net\\playermanagement\\playermanagement\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\user\\desktop\\10th semester\\adv . net\\playermanagement\\playermanagement\\context\\table_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\context\\table_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\user\\desktop\\10th semester\\adv . net\\playermanagement\\playermanagement\\views\\player\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\views\\player\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\user\\desktop\\10th semester\\adv . net\\playermanagement\\playermanagement\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\user\\desktop\\10th semester\\adv . net\\playermanagement\\playermanagement\\context\\player.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EE4C1E10-A862-4454-A704-7D329E713A78}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\context\\player.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "table_Registration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Context\\table_Registration.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Context\\table_Registration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Context\\table_Registration.cs",
+              "RelativeToolTip": "PlayerManagement\\Context\\table_Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:17:11.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Views\\Player\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "PlayerManagement\\Views\\Player\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Views\\Player\\Dashboard.cshtml",
+              "RelativeToolTip": "PlayerManagement\\Views\\Player\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T14:06:46.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Views\\Player\\Login.cshtml",
+              "RelativeDocumentMoniker": "PlayerManagement\\Views\\Player\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Views\\Player\\Login.cshtml",
+              "RelativeToolTip": "PlayerManagement\\Views\\Player\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T13:53:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PlayerManagement\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:43:40.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Views\\Player\\Registration.cshtml",
+              "RelativeDocumentMoniker": "PlayerManagement\\Views\\Player\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Views\\Player\\Registration.cshtml",
+              "RelativeToolTip": "PlayerManagement\\Views\\Player\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T13:38:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "PlayerManagement\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:17:37.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "player.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Context\\player.edmx",
+              "RelativeDocumentMoniker": "PlayerManagement\\Context\\player.edmx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\10th SEMESTER\\ADV . NET\\PlayerManagement\\PlayerManagement\\Context\\player.edmx [Diagram1]",
+              "RelativeToolTip": "PlayerManagement\\Context\\player.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-16T13:16:36.75Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
