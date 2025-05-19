@@ -74,7 +74,16 @@ namespace PlayerManagement.Controllers
             }
         }
 
-    
+    public ActionResult Dashboard()
+{
+    if (Session["UserName"] == null)
+    {
+        return RedirectToAction("Login");
+    }
+
+    ViewBag.UserName = Session["UserName"].ToString();
+    return View();
+}
 
 
 
