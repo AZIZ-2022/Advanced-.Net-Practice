@@ -74,23 +74,23 @@ namespace PlayerManagement.Controllers
             }
         }
 
-    public ActionResult Dashboard()
-{
-    if (Session["UserName"] == null)
-    {
+      public ActionResult Dashboard()
+      {
+      if (Session["UserName"] == null)
+      {
         return RedirectToAction("Login");
-    }
+      }
 
-    ViewBag.UserName = Session["UserName"].ToString();
-    return View();
-}
+      ViewBag.UserName = Session["UserName"].ToString();
+      return View();
+  }
 
-public ActionResult Logout()
-{
+  public ActionResult Logout()
+  {
     Session.Clear();
     Session.Abandon();
     return RedirectToAction("Login");
-}
+  }  
 
 
 
