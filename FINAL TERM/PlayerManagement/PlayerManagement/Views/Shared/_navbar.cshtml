@@ -1,0 +1,12 @@
+﻿<nav style="background-color: #333; padding: 10px;">
+    <a href="@Url.Action("Dashboard", "Player")" style="color: white; margin-right: 20px;">Dashboard</a>
+    <a href="@Url.Action("Registration", "Player")" style="color: white; margin-right: 20px;">Register</a>
+    <a href="@Url.Action("Login", "Player")" style="color: white; margin-right: 20px;">Login</a>
+
+    @if (Session["UserName"] != null)
+    {
+        <span style="color:white; margin-right:20px;">Hello, @Session["UserName"]</span>
+        <a href="@Url.Action("Logout", "Player")" style="color: red;">Logout</a>
+    }
+</nav>
+
