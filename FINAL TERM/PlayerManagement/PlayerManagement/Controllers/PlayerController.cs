@@ -74,10 +74,7 @@ namespace PlayerManagement.Controllers
             }
         }
 
-        public ActionResult Dashboard()
-        {
-            return View();
-        }
+    
 
 
 
